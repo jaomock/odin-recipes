@@ -1,1 +1,1 @@
-# odin-recipes
+This project will show what skills i have learned so far with The Odin Project :)
